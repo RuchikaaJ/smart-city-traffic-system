@@ -32,10 +32,6 @@ smart-city-traffic-system/
 └── .gitignore
 Installation and Setup
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/smart-city-traffic-system.git
-cd smart-city-traffic-system
-
-Replace YOUR-USERNAME with your GitHub username.
 
 2. Create a virtual environment (recommended)
 python -m venv .venv
